@@ -67,7 +67,11 @@ var messages = [
 	"made a non-volatile entry into their eternal heart database",
 	"would draw this like one of their french girls",
 	"called this while still on the first date",
-	"touched this inappropriately"
+	"touched this inappropriately",
+	"is hooked on a feeling. This specific feeling. Oogachaka.",
+	"just killed a kitten.",
+	"thinks this song has swag.",
+	"is singing along."
 ];
 
 module.exports = function(){
